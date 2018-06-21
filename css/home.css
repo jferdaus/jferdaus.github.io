@@ -9,7 +9,10 @@
 	 
     }
 	
-	
+	.responsive {
+    width: auto ;
+    height: auto;
+}
 	 
     /* Add a gray background color and some padding to the footer */
     footer {
