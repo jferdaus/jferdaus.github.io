@@ -34,16 +34,19 @@ color:white;
 
 .header {
 	
-	height: 100% ;
 	
-	width: 100% ;
 	
 	background-color : #060613 ;
 	
 }
 
 
-
+@media only screen and (max-width: 600px) {
+   .header {
+        height: 100% ;
+	width: 100% ;
+    }
+}
 
 .container-fluid {
     position: relative;
