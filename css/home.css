@@ -20,7 +20,6 @@
 	
 	.responsive {
      width: 100%;
-    max-width: 200px;
     height: auto;
 }
 	 
@@ -51,7 +50,7 @@ color:white;
 
 @media screen and (max-width: 600px) {
   .header  {
-    display: none ;
+     height: auto;
   }
  
 }
