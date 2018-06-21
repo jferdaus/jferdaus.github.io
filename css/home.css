@@ -61,8 +61,7 @@ color:white;
 
 
 .container-fluid > .btn > a {
- // background-color: white;
-  color: white;
+ 
   text-decoration:none;
 }
 .container-fluid > .btn > a:hover {
