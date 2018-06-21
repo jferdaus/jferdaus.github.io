@@ -44,7 +44,7 @@ color:white;
 /* Style the button and place it in the middle of the container/image */
 .container-fluid > .btn {
   position: absolute;
-  top: 75%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -59,7 +59,7 @@ color:white;
 	
 }
 
-@media all and (max-width:1em){
+@media all and (max-width:.3em){
 .container-fluid > .btn{
   display:block;
   margin:0.4em auto;
@@ -80,7 +80,7 @@ color:white;
 
 .container-fluid > .header1 {
   position: absolute;
-  top: 55%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -95,7 +95,7 @@ color:white;
 
 .container-fluid > .header2 {
   position: absolute;
-  top: 65%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
