@@ -55,14 +55,15 @@ color:white;
   border: 3px solid white;
   cursor: pointer;
   border-radius: 5px;
-	width: 50% ;
-	
-	
-	height: 50% ;
 	
 	
 }
 
+@media all and (max-width:30em){
+.container-fluid > .btn{
+  display:block;
+  margin:0.4em auto;
+ }
 
 .container-fluid > .btn > a {
  // background-color: white;
