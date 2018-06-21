@@ -59,11 +59,6 @@ color:white;
 	
 }
 
-@media all and (max-width:.3em){
- .btn{
-  display:block;
-  margin:0.4em auto;
- }
 
 .container-fluid > .btn > a {
  // background-color: white;
