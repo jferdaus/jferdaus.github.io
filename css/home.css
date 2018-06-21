@@ -59,7 +59,7 @@ color:white;
 	
 }
 
-@media all and (max-width:5em){
+@media all and (max-width:1em){
 .container-fluid > .btn{
   display:block;
   margin:0.4em auto;
