@@ -52,7 +52,7 @@ color:white;
   color: white;
   
   padding: 12px 24px;
-  border: 3px solid white;
+  
   cursor: pointer;
   border-radius: 5px;
 	
@@ -60,7 +60,7 @@ color:white;
 }
 
 @media all and (max-width:.3em){
-.container-fluid > .btn{
+ .btn{
   display:block;
   margin:0.4em auto;
  }
