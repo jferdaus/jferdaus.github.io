@@ -35,7 +35,10 @@ color:white;
 	
 }
 
-
+.container-fluid {
+    position: relative;
+    
+}
 
 
 /* Style the button and place it in the middle of the container/image */
