@@ -1,0 +1,101 @@
+
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+	  background-color : #00001a ;
+	 
+	  margin-left: 15px;
+	   margin-right: 15px;
+    }
+	
+	
+	 
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: white;
+      padding: 30px;
+    }
+
+	
+#contact { 
+ background-color: black;
+color:white; 
+}
+
+
+
+.header {
+	
+	height: 100% ;
+	
+	width: 100% ;
+	
+	background-color : #060613 ;
+	
+}
+
+
+
+
+/* Style the button and place it in the middle of the container/image */
+.container-fluid > .btn {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #00001a ;
+  color: white;
+  font-size: 23px;
+  padding: 12px 24px;
+  border: 3px solid white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+.container-fluid > .btn > a {
+ // background-color: white;
+  color: white;
+  text-decoration:none;
+}
+.container-fluid > .btn > a:hover {
+  background-color: white ;
+  
+  Color: #00001a ;
+  border: 3px solid grey ;
+  
+}
+
+.container-fluid > .header1 {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+ 
+  color: white;
+  font-size: 45px;
+  padding: 12px 24px;
+  
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container-fluid > .header2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+ // background-color: darkblue;
+  color: white;
+  font-size: 45px;
+  padding: 12px 24px;
+  //border: 2px solid white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+  
