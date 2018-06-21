@@ -56,8 +56,8 @@ color:white;
   cursor: pointer;
   border-radius: 5px;
 	width: 50% ;
-	min-width: 50px;
-	max-width: 300px;
+	min-width: 20px;
+	max-width: 100px;
 }
 
 
