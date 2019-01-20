@@ -242,13 +242,13 @@
 		  <div class="container-fluid text-center">
 			   
 
-	   <h3 style="display:block; font-family:calibri; border-bottom: 4px solid #1ABC9C;">LARAVEL PROJECT</h3>
+	   <h3 style="display:block; font-family:calibri; border-bottom: 4px solid #1ABC9C; padding:5px;">LARAVEL PROJECT</h3>
  <hr>
  
 	 <div class="row" style="margin-left:30%">
 		
     <div class="col-sm-4">
-	  <div style="background-color:#122C0F;color:white; padding:5px;">  <h4>Activity Management</h4></div>
+	  <div style="background-color:#122C0F;color:white; padding:5px; box-shadow: 5px 10px #1ABC9C;">  <h4>Activity Management</h4></div>
     <button class="hov"><a href="https://github.com/jferdaus/project"><img style="width:100% ;height:200px ; padding:5px;"  class="responsive" src="image/activity.png"></a></button>
 	  </div>
 		
@@ -269,7 +269,7 @@
 	 <div class="container-fluid text-center">
 		 
 	
- <h3 style="display:block; font-family:calibri; border-bottom: 4px solid #1ABC9C;">WORDPRESS PROJECT</h3>
+ <h3 style="display:block; font-family:calibri; border-bottom: 4px solid #1ABC9C; padding:5px;">WORDPRESS PROJECT</h3>
  <hr>
 	 
 
@@ -300,11 +300,11 @@
 		 
 
  <div class="container-fluid text-center" >
-  <h3 style="display:block; font-family:calibri; border-bottom: 4px solid #1ABC9C;">OTHER PROJECT</h3>
+  <h3 style="display:block; font-family:calibri; border-bottom: 4px solid #1ABC9C; padding:5px;">OTHER PROJECT</h3>
  <hr>
  </div>
   
-  <div class="row" style="margin-left:30%">
+  <div class="row">
    
     <div class="col-sm-4"> 
 	     <div style="background-color:#ADD8E6;color:#4682B4; padding:5px;"> <h4>Tic Tac Toe Game</h4></div>
@@ -319,11 +319,7 @@
 	  </div>
 
 	  
-		 </div>
-		 <br><br>
 		
-		 <div class="row" style="margin-left:30%">
- 			
     <div class="col-sm-4">
 	     <div style="background-color:PaleGreen;color:AliceBlue; padding:5px;"> <h4>Online Voting</h4></div>
       <button class="hov"><img style="width:100% ;height:200px ;" class="responsive" src="image/ec.png"></button>
@@ -402,7 +398,7 @@ marker.setMap(map);
 
 
 <footer class="container-fluid text-center">
-  <p style="font-size:11px;"><b>Jannatul Ferdaus ©2018</b></p>
+  <p style="font-size:11px; background-color:#1ABC9C; color:white;"><b>Jannatul Ferdaus ©2018</b></p>
 </footer>
 
 
@@ -424,10 +420,10 @@ marker.setMap(map);
   <script>
 $(document).ready(function(){
   $(".hov").hover(function(){
-    $(this).css("opacity", ".5");
+    $(this).css("opacity", ".5").html("<p>Click on the image to view details of this project</p>");
     }, function(){
     $(this).css("opacity", "1");
-	$(this).html("<p>Click on the image to view details of this project</p>");  
+	  
   });
 });
 </script>
