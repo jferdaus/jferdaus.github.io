@@ -59,7 +59,7 @@ color:white;
 
 
 /* Style the button and place it in the middle of the container/image */
-.container-fluid > .btn {
+#viewwork > .btn {
   position: absolute;
   top: 75%;
   left: 50%;
@@ -77,7 +77,7 @@ color:white;
 }
 
 
-.container-fluid > .btn > a {
+#viewwork > .btn > a {
  
   text-decoration:none;
 }
