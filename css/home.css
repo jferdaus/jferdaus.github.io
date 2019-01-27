@@ -81,7 +81,8 @@ color:white;
  
   text-decoration:none;
 }
-.container-fluid > .btn > a:hover {
+
+#viewwork > .btn > a:hover {
   background-color: white ;
   
   Color: #00001a ;
