@@ -61,7 +61,7 @@ color:white;
 /* Style the button and place it in the middle of the container/image */
 #view > .btn {
   position: absolute;
-  top: 75%;
+  top:55%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -92,7 +92,7 @@ color:white;
 
  .header1 {
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -107,7 +107,7 @@ color:white;
 
  .header2 {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
