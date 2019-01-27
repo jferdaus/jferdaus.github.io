@@ -50,7 +50,7 @@ color:white;
         height: 100% ;
 	width: 100% ;
     }
-}
+
 
 .container-fluid {
     position: relative;
@@ -119,4 +119,4 @@ color:white;
   border-radius: 5px;
 }
 
-  
+  }
