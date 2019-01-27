@@ -63,7 +63,7 @@ color:white;
 /* Style the button and place it in the middle of the container/image */
 .header > .btn {
   position: absolute;
-  top:65%;
+  top:62%;
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
