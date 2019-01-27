@@ -45,7 +45,7 @@ color:white;
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 400px) {
    .header {
         height: 100% ;
 	width: 100% ;
