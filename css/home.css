@@ -59,7 +59,7 @@ color:white;
 
 
 /* Style the button and place it in the middle of the container/image */
-.btn {
+#view > .btn {
   position: absolute;
   top: 75%;
   left: 50%;
@@ -77,12 +77,12 @@ color:white;
 }
 
 
-.btn > a {
+#view > .btn > a {
  
   text-decoration:none;
 }
 
-.btn > a:hover {
+#view > .btn > a:hover {
   background-color: white ;
   
   Color: #00001a ;
